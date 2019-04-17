@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dan Ard-<b>BLUETOOTH</b></string>
+    <string name="SignInTitle">TextView</string>
+    <string name="loginbutton">LOGIN</string>
+    <string name="EnterButton">Enter Your E-mail</string>
+    <string name="passwordSpace">Enter Your Password</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="led_control">LED Control</string>
+    <string name="brightness">Brightness</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="light_control"><i>Light Control</i></string>
+    <string name="section_one">R1</string>
+    <string name="section_two">R2</string>
+    <string name="section_five">R5</string>
+    <string name="section_four">R4</string>
+    <string name="section_three">R3</string>
+    <string name="section_six">R6</string>
+    <string name="fan_control">Fan Control</string>
+    <string name="fan_speed_control"><i>Fan Speed Control</i></string>
+    <string name="disconnect_me">DISCONNECT</string>
+    <string name="light_brightness_control"><i>Light Brightness Control</i></string>
+
+</resources>
